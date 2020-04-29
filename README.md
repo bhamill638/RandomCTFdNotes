@@ -19,6 +19,7 @@ There are three types of hints to choose from;
 - None
 - Text
 - URL
+
 None is fairly self explanatory, text hints provide a bit of information on each Juice Shop challenge and URL hints link to a web page that give further information on the challenge, what the challenge is trying to do and how you might think or go about something similar. The URLs will not provide answers.
 Along with these types of hints, you've got another choice to make, free hints, or paid hints. Free hints are, of course, free. Paid hints will cost the user points to unlock, so a user must spend their points earned on other challenges to view the hints for another challenge.
 If in doubt, a safe bet is free text and URL hints. You can always run through the setup ad give it a test, it's very easy to change the configuration afterwards.
@@ -38,6 +39,7 @@ The CLI will then prompt a number of questions. Enter the following:
 - Enter your secret key
 - Select the type of text hints you want
 - Select the type of URL hints
+
 A zip file will be generated with the configuration options we selected.
 
 ### Stopping the Juice Shop Container
